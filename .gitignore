@@ -1,0 +1,11 @@
+# Archivos de historial de R
+.Rhistory
+.RData
+.Ruserdata
+
+# Archivos de configuración de RStudio
+.Rproj.user/
+
+# Archivos de caché o paquetes descargados
+*.Rcheck/
+.Rapp.history
